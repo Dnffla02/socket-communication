@@ -16,7 +16,7 @@ client:
  ---------------------
 예시
  1+2< enter >
- tcp
+ tcp< enter >
 결과
  3
   
